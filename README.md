@@ -6,8 +6,8 @@
 ### Queue
 ---
 - Insertion/ Deletion
-	- [Front](/Queue/Front)
-	- [Back](/Queue/Back)
+	- [Front](../../Queue/Front)
+	- [Back](Queue/Back)
 
 
 ### Linked-list

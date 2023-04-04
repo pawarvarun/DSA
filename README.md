@@ -6,7 +6,7 @@
 ### Queue
 ---
 - Insertion/ Deletion
-	- [Front](../../Queue/Front)
+	- [Front](Queue/Front)
 	- [Back](Queue/Back)
 
 

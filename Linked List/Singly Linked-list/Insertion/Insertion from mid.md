@@ -68,6 +68,9 @@ int main() {
     print_list(head);
     insert_at_mid(8, 3, &head);  // Insert at position 3
     print_list(head);
+    int num,post;
+    scanf("%d %d", &num, &post);
+    insert_at_mid(num,post,&head)
     return 0;
 }
 ```

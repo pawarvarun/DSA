@@ -58,20 +58,13 @@ void print_list(struct Node *node) {
 
 int main() {
     struct Node *head = NULL;
-    insert_at_mid(5, 1, &head);  // Insert at position 1 (empty list)
-    print_list(head);
-    insert_at_mid(7, 2, &head);  // Insert at position 2
-    print_list(head);
-    insert_at_mid(9, 1, &head);  // Insert at position 1 (non-empty list)
-    print_list(head);
-    insert_at_mid(3, 4, &head);  // Invalid position
-    print_list(head);
-    insert_at_mid(8, 3, &head);  // Insert at position 3
-    print_list(head);
+   
     int num,post;
     scanf("%d %d", &num, &post);
     insert_at_mid(num,post,&head)
-    return 0;
+   print_list(head);
+   
+   return 0;
 }
 ```
 
